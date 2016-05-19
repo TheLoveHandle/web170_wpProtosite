@@ -52,3 +52,17 @@ aside{
 footer{
     clear: both;
 }
+
+.flex-slider{
+    width: 100%;
+}
+
+.widgets{
+    overflow: hidden;
+}
+
+.widget{
+    width: 30%;
+    float: left;
+    padding: 1.4%;
+}
