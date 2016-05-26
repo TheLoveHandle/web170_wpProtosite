@@ -66,3 +66,21 @@ footer{
     float: left;
     padding: 1.4%;
 }
+
+img.attachment-thumbnail {
+    float: left;
+    margin: 4px 20px 0 0;
+}
+
+article.post-excerpt {
+overflow: hidden;
+margin-bottom: 20px;
+padding-left: 20px;
+}
+
+p.read-more{
+    
+}
+
+img.attachment-large {}
+img.attachment-full {}
